@@ -1,3 +1,28 @@
+#📊digital_ads_data_analysis (Excel)
+
+This project, completed as part of the Miuul Data Analyst Path, is a comprehensive analysis of digital advertising data using Microsoft Excel.
+
+## Project Goal
+
+The primary goal is to use an e-commerce/app dataset to analyze the impact of digital ad spending on Sales (Regression), perform data cleaning, and provide business recommendations based on CLTV (Customer Lifetime Value) calculations and investment feasibility.
+
+## Key Skills & Tools Utilized
+
+This analysis demonstrates proficiency in the following core data analyst skills:
+
+* **Data Cleaning:** Detection and management of Missing Values and Outliers.
+* **Statistical Modelling:** Multiple Linear Regression for sales forecasting and impact analysis (using Excel's Data Analysis ToolPak).
+* **Business Metrics:** Calculation and interpretation of CLTV (Customer Lifetime Value).
+* **Data Visualisation:** Presenting analysis results using Excel Pivot Tables and Charts.
+
+## Project Deliverables (Key Insights)
+
+* Regression equation showing the relationship between ad spending and sales conversion.
+* Distribution plan for a \$100 budget across channels to maximise return on investment (ROI).
+* Justified investment recommendation based on the given retention rate (42%) and monthly revenue (\$15).
+
+   ### 🇹🇷 For Turkish version, please scroll down.
+
 # digital_ads_data_analysis
 Miuul Data Analyst Path'in bir parçası olarak gerçekleştirilen, Excel tabanlı kapsamlı reklam verisi analizi.
 
@@ -18,3 +43,7 @@ Bu analiz, şu becerileri sergilemektedir:
 * Harcamaların satışa dönüşümünü gösteren regresyon denklemi.
 * $100 bütçenin en yüksek getiriyi sağlayacak mecralara dağıtım planı.
 * Belirtilen retention oranı (%42) ve aylık gelir ($15) üzerinden yatırım kararı tavsiyesi.
+
+
+
+***
